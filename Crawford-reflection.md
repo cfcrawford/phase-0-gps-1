@@ -1,11 +1,11 @@
 ###GPS 1 Reflection###
 **What git concepts were you struggling with prior to the GPS session?**
 
-I still was in the process of understanding the push process, which commands to use and how to merge the origin and master.
+I still was in the process of understanding the push process, which commands to use and how to merge the origin and master. I also did not fully understand the Markdown syntax.
 
 **What concepts were clarified during the GPS?**
 
-This push process was clarified to me a little bit better by my pair partner. My pair and I also firgured out how to merge a master and branch locally.
+This push process was clarified to me a little bit better by my pair partner. My pair and I also figured out how to merge a master and branch locally. I now understand how to use Markdown syntax better than before.
 
 **What questions did you ask your pair and the guide?**
 
@@ -17,4 +17,4 @@ The thing that still confuses me about git is how to troubleshoot and fix any er
 
 **How was your first experience of pairing in a GPS?**
 
-My first experience was positive, aside from me feeling a bit nervous at first. Our guide was very in helpful in facilitating the structure of the session and answering our questions, but mostly stayed in the background and observed us working. My pair partner was also very cooperative and I felt our communication was good enough to get us through a few minor glitches that we encountered.
+My first experience was positive, aside from me feeling a somewhat nervous. Our guide was very in helpful in facilitating the structure of the session and answering our questions, but mostly stayed in the background and observed us working. My pair partner was also very cooperative and I felt our communication was good enough to get us through a few minor glitches that we encountered.
