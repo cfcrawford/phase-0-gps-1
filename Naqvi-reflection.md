@@ -13,7 +13,7 @@ Prior to the GPS, I was struggling with the concept of HEAD and the use of the g
 
 ### What questions did you ask the pair and the guide?
 1. I asked the guide about the github message windows that we always seem to leave blank during the pull workflow, and about the dangers of a repo inside a repo
-2. I asked my pair about local git merges, and about some of the commands on a man (I use windows) 
+2. I asked my pair about local git merges, and about some of the commands on a Mac (I use windows) 
 
 ### What still confuses you about git?
 It was good to have a more realistic git workflow experience as so far we have been requesting and reviewing our own pull requests. I was a little confused about the github repo that is set to "collaborate" with others. It didn't show up for me at first, and it was ahead of my local master even after I pulled it down. The issue seemed to resolve itself after I searched for the repo on Github and cloned it again.
